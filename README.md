@@ -12,7 +12,7 @@
 
 💻 He trabajado brevemente realizando automatización de procesos contables con el uso de programación
 
-📝 roles en el ámbito: desarrollador... líder... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: desarrollador... líder... programador freelance... Manejo herramientas de simulación y diseño como SolidWorks... uso de Matlab... entre otros Softwares ☺️
 
 📫 Contacto: **juliodom@live.com.mx**
 <!--Intro end-->
@@ -64,13 +64,15 @@
   <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="60%" align="center">
-
+<!--<td width="60%" align="center">
+-->
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=unsimpledev&theme=dark&hide_border=false" /> 
+  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JUL10-CHARL3S-83NN1G&theme=dark&hide_border=false" />
+  -->
+  <!--
 </td>
-
+-->
 <td width="40%" align="center">
 
   <img  align="center" width="70%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/refs/heads/main/Lengaujes_nivel.png"/>
