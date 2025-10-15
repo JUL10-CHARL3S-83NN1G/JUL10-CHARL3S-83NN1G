@@ -36,7 +36,7 @@
   <td width="25%" align="center">
     <p align="center">
      <a href="[https://www.youtube.com/watch?v=IYkYn2n_Buk](https://www.youtube.com/watch?v=IYkYn2n_Buk)" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        <img align="center" width=50% src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/refs/heads/main/Captura%20de%20pantalla%202025-10-14%20104144.png"   alt="VIDEO" /></a>
       </p>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=IYkYn2n_Buk" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Julio_Dom_Scripts"  />
