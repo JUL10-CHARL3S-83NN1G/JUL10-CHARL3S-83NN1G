@@ -46,6 +46,22 @@
       </p>
     </td>
   </tr>
+
+  <tr border="none">
+    <td width="25%" align="center">
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=tbAQ7cb7F9U" title="Go to Source">
+          <img align="center" width="50%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/refs/heads/main/Miniatura2.png" alt="VIDEO" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.youtube.com/watch?v=tbAQ7cb7F9U" target="_blank">
+          <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Julio_Dom_Scripts" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  
 </table>
 
 </tr>
