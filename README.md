@@ -36,7 +36,7 @@
     <td width="25%" align="center">
       <p align="center">
         <a href="https://www.youtube.com/watch?v=IYkYn2n_Buk&t=1s" title="Go to Source">
-          <img align="center" width="50%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/main/Captura%20de%20pantalla%202025-10-14%20104144.png" alt="VIDEO" />
+          <img align="center" width="80%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/main/Captura%20de%20pantalla%202025-10-14%20104144.png" alt="VIDEO" />
         </a>
       </p>
       <p align="center">
@@ -48,7 +48,7 @@
     <td width="25%" align="center">
       <p align="center">
         <a href="https://www.youtube.com/watch?v=tbAQ7cb7F9U" title="Go to Source">
-          <img align="center" width="50%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/refs/heads/main/Miniatura3.png" alt="VIDEO" />
+          <img align="center" width="80%" src="https://raw.githubusercontent.com/JUL10-CHARL3S-83NN1G/Im-genes_varias/refs/heads/main/Miniatura3.png" alt="VIDEO" />
         </a>
       </p>
       <p align="center">
