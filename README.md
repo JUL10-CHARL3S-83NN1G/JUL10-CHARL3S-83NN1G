@@ -45,9 +45,6 @@
         </a>
       </p>
     </td>
-  </tr>
-
-  <tr border="none">
     <td width="25%" align="center">
       <p align="center">
         <a href="https://www.youtube.com/watch?v=tbAQ7cb7F9U" title="Go to Source">
@@ -61,7 +58,6 @@
       </p>
     </td>
   </tr>
-  
 </table>
 
 </tr>
